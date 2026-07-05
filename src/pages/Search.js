@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react'
+import React from 'react'
 import Card from '../components/card'
 import { useSearchParams } from 'react-router-dom';
 import UseFetch from '../Hooks/UseFetch';

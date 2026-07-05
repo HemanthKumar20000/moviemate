@@ -1,4 +1,3 @@
-import React from 'react'
 import { useState ,useEffect} from 'react'
 const UseFetch = (apipath,query="") => {
     const [data,setData]=useState([])
